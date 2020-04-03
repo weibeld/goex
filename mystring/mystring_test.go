@@ -4,7 +4,7 @@ import "testing"
 
 func TestString(t *testing.T) {
 	want := "MyString"
-	if got := MyString(); got != "MyString" {
-		t.Errorf("MyString(): got %s, want %s", got, want)
+	if got := Get(); got != "MyString" {
+		t.Errorf("Get(): got %s, want %s", got, want)
 	}
 }

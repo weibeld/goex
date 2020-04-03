@@ -1,7 +1,7 @@
-// Package mybool returns boolean values
+// Package mybool returns boolean values.
 package mybool
 
-// MyBool returns the boolean value true
-func MyBool() bool {
+// Get returns the boolean value true.
+func Get() bool {
 	return makeBool()
 }

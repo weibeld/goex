@@ -1,7 +1,7 @@
 // Package myint returns integer values.
 package myint
 
-// MyInt returns the integer 42.
-func MyInt() int {
+// Get returns the integer 42.
+func Get() int {
 	return makeInt()
 }

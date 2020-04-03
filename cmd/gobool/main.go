@@ -12,5 +12,5 @@ import (
 )
 
 func main() {
-	fmt.Println(mybool.MyBool())
+	fmt.Println(mybool.Get())
 }

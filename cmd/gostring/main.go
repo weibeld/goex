@@ -12,5 +12,5 @@ import (
 )
 
 func main() {
-	fmt.Println(mystring.MyString())
+	fmt.Println(mystring.Get())
 }

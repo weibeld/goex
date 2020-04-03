@@ -1,7 +1,7 @@
-// Package mystring returns string values
+// Package mystring returns string values.
 package mystring
 
-// MyString returns the string "MyString"
-func MyString() string {
+// Get returns the string "MyString".
+func Get() string {
 	return makeString()
 }

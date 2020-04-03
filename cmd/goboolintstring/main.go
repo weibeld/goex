@@ -14,7 +14,7 @@ import (
 )
 
 func main() {
-	fmt.Println(mybool.MyBool())
-	fmt.Println(myint.MyInt())
-	fmt.Println(mystring.MyString())
+	fmt.Println(mybool.Get())
+	fmt.Println(myint.Get())
+	fmt.Println(mystring.Get())
 }
