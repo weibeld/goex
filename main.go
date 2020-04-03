@@ -1,8 +1,8 @@
 package main
 
 import (
-	"./mystring"
 	"fmt"
+	"github.com/weibeld/mystring"
 )
 
 func main() {
