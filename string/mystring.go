@@ -1,5 +1,5 @@
 // Package mystring
-package githubcom/weibeldmystring
+package mystring
 
 func String() string {
 	return "MyString"
